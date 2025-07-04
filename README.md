@@ -6,20 +6,22 @@
 ---
 
 ### 🔭 Currently Working On
-- 🧠 Brushing up my DSA skills with C++.
+- 👉Making GitHub Graph Greener🍀
+- 👉 Making my LeetCode Meter Speed Up🚀
+- 👉 Collecting GitHub Batches👾
 ---
 
 ### 🌱 Currently Learning
 - 🤖 Machine Learning & AI (from scratch, no short-cuts)
 - 🔐 System Design & Git basics for dev readiness
-- 📘 CS subjects for GATE (while still respecting my roots in EE)
+- 📘 CS subjects for GATE (while still respecting my roots in EE 🤝)
 
 ---
 
 ### 👯 Looking to Collaborate On
-- 💡 Open-source frontend/UI-focused projects
-- 🛠️ Side hustles that blend design + code
-- 📈 Product building or ed-tech/startup communities
+- 💡 Open-source frontend/UI-focused projects 🥷
+- 🛠️ Side hustles that blend design + code ☄️
+- 📈 Product building or ed-tech/startup communities 🎯
 
 ---
 
@@ -30,8 +32,8 @@
 ---
 
 ### ⚡ Fun Fact
-> I lowkey believe Pokémon Go made me a better communicator.  
-> Also, if OneNote ever crashes on me—I’ll consider it a personal betrayal.
+> I lowkey believe Pokémon Go made me a better communicator. 🫠
+> Also, if OneNote ever crashes on me—I’ll consider it a personal betrayal.🫠
 
 ---
 
